@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro Section (Text + GIF side-by-side) -->
-<table width="100%" style="margin-top: 20px;">
+<table width="100%" style="margin-top: 20px;" align="center">
   <tr>
     <td width="60%" valign="top">
       <h1 style="color:#0D3B66;">Hi, I'm Sabrina Rahmadini 👋</h1>
